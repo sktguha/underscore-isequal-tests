@@ -1,0 +1,600 @@
+
+> underscore-isEqualTests@1.0.0 testNew /Users/sguha/Projects/Others/underscore-isequal-tests
+> node testNew.js
+
+false
+new: 2.279ms
+
+> underscore-isEqualTests@1.0.0 testNew /Users/sguha/Projects/Others/underscore-isequal-tests
+> node testNew.js
+
+false
+new: 2.343ms
+
+> underscore-isEqualTests@1.0.0 testNew /Users/sguha/Projects/Others/underscore-isequal-tests
+> node testNew.js
+
+false
+new: 2.332ms
+
+> underscore-isEqualTests@1.0.0 testNew /Users/sguha/Projects/Others/underscore-isequal-tests
+> node testNew.js
+
+false
+new: 2.255ms
+
+> underscore-isEqualTests@1.0.0 testNew /Users/sguha/Projects/Others/underscore-isequal-tests
+> node testNew.js
+
+false
+new: 2.601ms
+
+> underscore-isEqualTests@1.0.0 testNew /Users/sguha/Projects/Others/underscore-isequal-tests
+> node testNew.js
+
+false
+new: 2.288ms
+
+> underscore-isEqualTests@1.0.0 testNew /Users/sguha/Projects/Others/underscore-isequal-tests
+> node testNew.js
+
+false
+new: 2.850ms
+
+> underscore-isEqualTests@1.0.0 testNew /Users/sguha/Projects/Others/underscore-isequal-tests
+> node testNew.js
+
+false
+new: 2.465ms
+
+> underscore-isEqualTests@1.0.0 testNew /Users/sguha/Projects/Others/underscore-isequal-tests
+> node testNew.js
+
+false
+new: 2.682ms
+
+> underscore-isEqualTests@1.0.0 testNew /Users/sguha/Projects/Others/underscore-isequal-tests
+> node testNew.js
+
+false
+new: 2.611ms
+
+> underscore-isEqualTests@1.0.0 testNew /Users/sguha/Projects/Others/underscore-isequal-tests
+> node testNew.js
+
+false
+new: 2.701ms
+
+> underscore-isEqualTests@1.0.0 testNew /Users/sguha/Projects/Others/underscore-isequal-tests
+> node testNew.js
+
+false
+new: 2.699ms
+
+> underscore-isEqualTests@1.0.0 testNew /Users/sguha/Projects/Others/underscore-isequal-tests
+> node testNew.js
+
+false
+new: 2.758ms
+
+> underscore-isEqualTests@1.0.0 testNew /Users/sguha/Projects/Others/underscore-isequal-tests
+> node testNew.js
+
+false
+new: 2.670ms
+
+> underscore-isEqualTests@1.0.0 testNew /Users/sguha/Projects/Others/underscore-isequal-tests
+> node testNew.js
+
+false
+new: 2.947ms
+
+> underscore-isEqualTests@1.0.0 testNew /Users/sguha/Projects/Others/underscore-isequal-tests
+> node testNew.js
+
+false
+new: 2.486ms
+
+> underscore-isEqualTests@1.0.0 testNew /Users/sguha/Projects/Others/underscore-isequal-tests
+> node testNew.js
+
+false
+new: 2.681ms
+
+> underscore-isEqualTests@1.0.0 testNew /Users/sguha/Projects/Others/underscore-isequal-tests
+> node testNew.js
+
+false
+new: 2.452ms
+
+> underscore-isEqualTests@1.0.0 testNew /Users/sguha/Projects/Others/underscore-isequal-tests
+> node testNew.js
+
+false
+new: 2.785ms
+
+> underscore-isEqualTests@1.0.0 testNew /Users/sguha/Projects/Others/underscore-isequal-tests
+> node testNew.js
+
+false
+new: 3.051ms
+
+> underscore-isEqualTests@1.0.0 testNew /Users/sguha/Projects/Others/underscore-isequal-tests
+> node testNew.js
+
+false
+new: 2.751ms
+
+> underscore-isEqualTests@1.0.0 testNew /Users/sguha/Projects/Others/underscore-isequal-tests
+> node testNew.js
+
+false
+new: 2.710ms
+
+> underscore-isEqualTests@1.0.0 testNew /Users/sguha/Projects/Others/underscore-isequal-tests
+> node testNew.js
+
+false
+new: 2.737ms
+
+> underscore-isEqualTests@1.0.0 testNew /Users/sguha/Projects/Others/underscore-isequal-tests
+> node testNew.js
+
+false
+new: 2.814ms
+
+> underscore-isEqualTests@1.0.0 testNew /Users/sguha/Projects/Others/underscore-isequal-tests
+> node testNew.js
+
+false
+new: 2.416ms
+
+> underscore-isEqualTests@1.0.0 testNew /Users/sguha/Projects/Others/underscore-isequal-tests
+> node testNew.js
+
+false
+new: 2.675ms
+
+> underscore-isEqualTests@1.0.0 testNew /Users/sguha/Projects/Others/underscore-isequal-tests
+> node testNew.js
+
+false
+new: 2.742ms
+
+> underscore-isEqualTests@1.0.0 testNew /Users/sguha/Projects/Others/underscore-isequal-tests
+> node testNew.js
+
+false
+new: 2.896ms
+
+> underscore-isEqualTests@1.0.0 testNew /Users/sguha/Projects/Others/underscore-isequal-tests
+> node testNew.js
+
+false
+new: 2.262ms
+
+> underscore-isEqualTests@1.0.0 testNew /Users/sguha/Projects/Others/underscore-isequal-tests
+> node testNew.js
+
+false
+new: 2.692ms
+
+> underscore-isEqualTests@1.0.0 testNew /Users/sguha/Projects/Others/underscore-isequal-tests
+> node testNew.js
+
+false
+new: 2.466ms
+
+> underscore-isEqualTests@1.0.0 testNew /Users/sguha/Projects/Others/underscore-isequal-tests
+> node testNew.js
+
+false
+new: 2.795ms
+
+> underscore-isEqualTests@1.0.0 testNew /Users/sguha/Projects/Others/underscore-isequal-tests
+> node testNew.js
+
+false
+new: 2.378ms
+
+> underscore-isEqualTests@1.0.0 testNew /Users/sguha/Projects/Others/underscore-isequal-tests
+> node testNew.js
+
+false
+new: 2.391ms
+
+> underscore-isEqualTests@1.0.0 testNew /Users/sguha/Projects/Others/underscore-isequal-tests
+> node testNew.js
+
+false
+new: 2.492ms
+
+> underscore-isEqualTests@1.0.0 testNew /Users/sguha/Projects/Others/underscore-isequal-tests
+> node testNew.js
+
+false
+new: 2.214ms
+
+> underscore-isEqualTests@1.0.0 testNew /Users/sguha/Projects/Others/underscore-isequal-tests
+> node testNew.js
+
+false
+new: 2.218ms
+
+> underscore-isEqualTests@1.0.0 testNew /Users/sguha/Projects/Others/underscore-isequal-tests
+> node testNew.js
+
+false
+new: 2.455ms
+
+> underscore-isEqualTests@1.0.0 testNew /Users/sguha/Projects/Others/underscore-isequal-tests
+> node testNew.js
+
+false
+new: 2.267ms
+
+> underscore-isEqualTests@1.0.0 testNew /Users/sguha/Projects/Others/underscore-isequal-tests
+> node testNew.js
+
+false
+new: 2.263ms
+
+> underscore-isEqualTests@1.0.0 testNew /Users/sguha/Projects/Others/underscore-isequal-tests
+> node testNew.js
+
+false
+new: 2.351ms
+
+> underscore-isEqualTests@1.0.0 testNew /Users/sguha/Projects/Others/underscore-isequal-tests
+> node testNew.js
+
+false
+new: 2.367ms
+
+> underscore-isEqualTests@1.0.0 testNew /Users/sguha/Projects/Others/underscore-isequal-tests
+> node testNew.js
+
+false
+new: 2.613ms
+
+> underscore-isEqualTests@1.0.0 testNew /Users/sguha/Projects/Others/underscore-isequal-tests
+> node testNew.js
+
+false
+new: 2.269ms
+
+> underscore-isEqualTests@1.0.0 testNew /Users/sguha/Projects/Others/underscore-isequal-tests
+> node testNew.js
+
+false
+new: 2.300ms
+
+> underscore-isEqualTests@1.0.0 testNew /Users/sguha/Projects/Others/underscore-isequal-tests
+> node testNew.js
+
+false
+new: 2.532ms
+
+> underscore-isEqualTests@1.0.0 testNew /Users/sguha/Projects/Others/underscore-isequal-tests
+> node testNew.js
+
+false
+new: 2.236ms
+
+> underscore-isEqualTests@1.0.0 testNew /Users/sguha/Projects/Others/underscore-isequal-tests
+> node testNew.js
+
+false
+new: 2.823ms
+
+> underscore-isEqualTests@1.0.0 testNew /Users/sguha/Projects/Others/underscore-isequal-tests
+> node testNew.js
+
+false
+new: 2.760ms
+
+> underscore-isEqualTests@1.0.0 testNew /Users/sguha/Projects/Others/underscore-isequal-tests
+> node testNew.js
+
+false
+new: 2.527ms
+
+> underscore-isEqualTests@1.0.0 testNew /Users/sguha/Projects/Others/underscore-isequal-tests
+> node testNew.js
+
+false
+new: 2.948ms
+
+> underscore-isEqualTests@1.0.0 testNew /Users/sguha/Projects/Others/underscore-isequal-tests
+> node testNew.js
+
+false
+new: 2.782ms
+
+> underscore-isEqualTests@1.0.0 testNew /Users/sguha/Projects/Others/underscore-isequal-tests
+> node testNew.js
+
+false
+new: 3.063ms
+
+> underscore-isEqualTests@1.0.0 testNew /Users/sguha/Projects/Others/underscore-isequal-tests
+> node testNew.js
+
+false
+new: 2.951ms
+
+> underscore-isEqualTests@1.0.0 testNew /Users/sguha/Projects/Others/underscore-isequal-tests
+> node testNew.js
+
+false
+new: 2.240ms
+
+> underscore-isEqualTests@1.0.0 testNew /Users/sguha/Projects/Others/underscore-isequal-tests
+> node testNew.js
+
+false
+new: 2.519ms
+
+> underscore-isEqualTests@1.0.0 testNew /Users/sguha/Projects/Others/underscore-isequal-tests
+> node testNew.js
+
+false
+new: 2.285ms
+
+> underscore-isEqualTests@1.0.0 testNew /Users/sguha/Projects/Others/underscore-isequal-tests
+> node testNew.js
+
+false
+new: 2.888ms
+
+> underscore-isEqualTests@1.0.0 testNew /Users/sguha/Projects/Others/underscore-isequal-tests
+> node testNew.js
+
+false
+new: 2.730ms
+
+> underscore-isEqualTests@1.0.0 testNew /Users/sguha/Projects/Others/underscore-isequal-tests
+> node testNew.js
+
+false
+new: 3.405ms
+
+> underscore-isEqualTests@1.0.0 testNew /Users/sguha/Projects/Others/underscore-isequal-tests
+> node testNew.js
+
+false
+new: 2.884ms
+
+> underscore-isEqualTests@1.0.0 testNew /Users/sguha/Projects/Others/underscore-isequal-tests
+> node testNew.js
+
+false
+new: 2.631ms
+
+> underscore-isEqualTests@1.0.0 testNew /Users/sguha/Projects/Others/underscore-isequal-tests
+> node testNew.js
+
+false
+new: 2.732ms
+
+> underscore-isEqualTests@1.0.0 testNew /Users/sguha/Projects/Others/underscore-isequal-tests
+> node testNew.js
+
+false
+new: 2.708ms
+
+> underscore-isEqualTests@1.0.0 testNew /Users/sguha/Projects/Others/underscore-isequal-tests
+> node testNew.js
+
+false
+new: 2.987ms
+
+> underscore-isEqualTests@1.0.0 testNew /Users/sguha/Projects/Others/underscore-isequal-tests
+> node testNew.js
+
+false
+new: 2.938ms
+
+> underscore-isEqualTests@1.0.0 testNew /Users/sguha/Projects/Others/underscore-isequal-tests
+> node testNew.js
+
+false
+new: 2.334ms
+
+> underscore-isEqualTests@1.0.0 testNew /Users/sguha/Projects/Others/underscore-isequal-tests
+> node testNew.js
+
+false
+new: 2.686ms
+
+> underscore-isEqualTests@1.0.0 testNew /Users/sguha/Projects/Others/underscore-isequal-tests
+> node testNew.js
+
+false
+new: 2.776ms
+
+> underscore-isEqualTests@1.0.0 testNew /Users/sguha/Projects/Others/underscore-isequal-tests
+> node testNew.js
+
+false
+new: 2.369ms
+
+> underscore-isEqualTests@1.0.0 testNew /Users/sguha/Projects/Others/underscore-isequal-tests
+> node testNew.js
+
+false
+new: 2.555ms
+
+> underscore-isEqualTests@1.0.0 testNew /Users/sguha/Projects/Others/underscore-isequal-tests
+> node testNew.js
+
+false
+new: 2.787ms
+
+> underscore-isEqualTests@1.0.0 testNew /Users/sguha/Projects/Others/underscore-isequal-tests
+> node testNew.js
+
+false
+new: 2.848ms
+
+> underscore-isEqualTests@1.0.0 testNew /Users/sguha/Projects/Others/underscore-isequal-tests
+> node testNew.js
+
+false
+new: 2.750ms
+
+> underscore-isEqualTests@1.0.0 testNew /Users/sguha/Projects/Others/underscore-isequal-tests
+> node testNew.js
+
+false
+new: 2.748ms
+
+> underscore-isEqualTests@1.0.0 testNew /Users/sguha/Projects/Others/underscore-isequal-tests
+> node testNew.js
+
+false
+new: 2.974ms
+
+> underscore-isEqualTests@1.0.0 testNew /Users/sguha/Projects/Others/underscore-isequal-tests
+> node testNew.js
+
+false
+new: 2.265ms
+
+> underscore-isEqualTests@1.0.0 testNew /Users/sguha/Projects/Others/underscore-isequal-tests
+> node testNew.js
+
+false
+new: 2.277ms
+
+> underscore-isEqualTests@1.0.0 testNew /Users/sguha/Projects/Others/underscore-isequal-tests
+> node testNew.js
+
+false
+new: 2.794ms
+
+> underscore-isEqualTests@1.0.0 testNew /Users/sguha/Projects/Others/underscore-isequal-tests
+> node testNew.js
+
+false
+new: 2.571ms
+
+> underscore-isEqualTests@1.0.0 testNew /Users/sguha/Projects/Others/underscore-isequal-tests
+> node testNew.js
+
+false
+new: 3.470ms
+
+> underscore-isEqualTests@1.0.0 testNew /Users/sguha/Projects/Others/underscore-isequal-tests
+> node testNew.js
+
+false
+new: 2.551ms
+
+> underscore-isEqualTests@1.0.0 testNew /Users/sguha/Projects/Others/underscore-isequal-tests
+> node testNew.js
+
+false
+new: 2.247ms
+
+> underscore-isEqualTests@1.0.0 testNew /Users/sguha/Projects/Others/underscore-isequal-tests
+> node testNew.js
+
+false
+new: 2.844ms
+
+> underscore-isEqualTests@1.0.0 testNew /Users/sguha/Projects/Others/underscore-isequal-tests
+> node testNew.js
+
+false
+new: 2.801ms
+
+> underscore-isEqualTests@1.0.0 testNew /Users/sguha/Projects/Others/underscore-isequal-tests
+> node testNew.js
+
+false
+new: 2.737ms
+
+> underscore-isEqualTests@1.0.0 testNew /Users/sguha/Projects/Others/underscore-isequal-tests
+> node testNew.js
+
+false
+new: 2.787ms
+
+> underscore-isEqualTests@1.0.0 testNew /Users/sguha/Projects/Others/underscore-isequal-tests
+> node testNew.js
+
+false
+new: 2.827ms
+
+> underscore-isEqualTests@1.0.0 testNew /Users/sguha/Projects/Others/underscore-isequal-tests
+> node testNew.js
+
+false
+new: 2.834ms
+
+> underscore-isEqualTests@1.0.0 testNew /Users/sguha/Projects/Others/underscore-isequal-tests
+> node testNew.js
+
+false
+new: 2.897ms
+
+> underscore-isEqualTests@1.0.0 testNew /Users/sguha/Projects/Others/underscore-isequal-tests
+> node testNew.js
+
+false
+new: 2.797ms
+
+> underscore-isEqualTests@1.0.0 testNew /Users/sguha/Projects/Others/underscore-isequal-tests
+> node testNew.js
+
+false
+new: 2.708ms
+
+> underscore-isEqualTests@1.0.0 testNew /Users/sguha/Projects/Others/underscore-isequal-tests
+> node testNew.js
+
+false
+new: 2.853ms
+
+> underscore-isEqualTests@1.0.0 testNew /Users/sguha/Projects/Others/underscore-isequal-tests
+> node testNew.js
+
+false
+new: 3.025ms
+
+> underscore-isEqualTests@1.0.0 testNew /Users/sguha/Projects/Others/underscore-isequal-tests
+> node testNew.js
+
+false
+new: 2.823ms
+
+> underscore-isEqualTests@1.0.0 testNew /Users/sguha/Projects/Others/underscore-isequal-tests
+> node testNew.js
+
+false
+new: 2.831ms
+
+> underscore-isEqualTests@1.0.0 testNew /Users/sguha/Projects/Others/underscore-isequal-tests
+> node testNew.js
+
+false
+new: 2.487ms
+
+> underscore-isEqualTests@1.0.0 testNew /Users/sguha/Projects/Others/underscore-isequal-tests
+> node testNew.js
+
+false
+new: 2.717ms
+
+> underscore-isEqualTests@1.0.0 testNew /Users/sguha/Projects/Others/underscore-isequal-tests
+> node testNew.js
+
+false
+new: 2.418ms
+
+> underscore-isEqualTests@1.0.0 testNew /Users/sguha/Projects/Others/underscore-isequal-tests
+> node testNew.js
+
+false
+new: 3.057ms

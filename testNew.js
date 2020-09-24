@@ -6,7 +6,7 @@ function getBufferFromIfPresent() {
     return root.Buffer && root.Buffer.from && root.Buffer.from.bind(root.Buffer);
 }
 var bufferFrom = getBufferFromIfPresent();
-var isEqualNew = (a, b) => bufferFrom(a).equals(bufferFrom(b)); //explore is bufferFrom(b) is required or not 
+var isEqualNew = (a, b) => bufferFrom(a, 0).equals(bufferFrom(b, 0));
 // var buffer1 = fs.readFileSync('loremipsum.txt');
 // var buffer2 = Buffer.from([1, 2, 3, 4, 5, 6, 7, 8, 9]);
 // var buffer3 = fs.readFileSync('loremipsum.txt');

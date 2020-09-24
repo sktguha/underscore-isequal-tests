@@ -1,0 +1,33 @@
+{
+  "name": "underscore-isEqualTests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "testExisting.js",
+  "dependencies": {
+    "underscore": "^1.11.0"
+  },
+  "devDependencies": {
+    "n": "^6.7.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "sudo n 10 && sudo n 12",
+    "testNew10": "n use 10 testNew.js",
+    "testExisting10": "n use 10 testExisting.js",
+    "testNew12": "n use 12 testNew.js",
+    "testExisting12": "n use 12 testExisting.js",
+    "testNew": "node testNew.js",
+    "testExisting": "node testExisting.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sktguha/underscore-isEqualTests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sktguha/underscore-isEqualTests/issues"
+  },
+  "homepage": "https://github.com/sktguha/underscore-isEqualTests#readme"
+}
